@@ -44,8 +44,8 @@ EDA involved exploring the sales data to answer key questioms, such as:
 
 ### Data Analysis
 
+![download (2)](https://github.com/user-attachments/assets/21151daa-11d1-45b5-b576-84db39df98d3)
 
-![download (1)](https://github.com/user-attachments/assets/be92007b-c09a-4854-bd10-2c02fe71e22b)
 
 
 
